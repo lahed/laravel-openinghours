@@ -29,6 +29,6 @@ class OpeningHoursServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        
     }
 }
